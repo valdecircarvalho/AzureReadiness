@@ -37,6 +37,7 @@ Start watching as a beginner and finish up as the master
 * [Azure Virtual Data Centre Lab](https://github.com/Araffe/vdc-networking-lab)
 * [Azure DevCamp](https://github.com/Azure-Readiness/DevCamp/)
 * [Intertech Azure Training](https://github.com/mehmetkut/intertech-azure-training)
+* [Azure Networking Lab](http://github.com/erjosito/azure-networking-lab)
 
 ### Azure Guides
 
