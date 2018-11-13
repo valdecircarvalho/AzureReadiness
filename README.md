@@ -39,6 +39,7 @@ Start watching as a beginner and finish up as the master
 * [Intertech Azure Training](https://github.com/mehmetkut/intertech-azure-training)
 * [Azure Networking Lab](http://github.com/erjosito/azure-networking-lab)
 * [Docker Tutorials and Labs](https://github.com/jldeen/labs/blob/master/README.md)
+* [Azure Terraform Training Workshop](https://github.com/scarolan/azure-workshop-training)
 
 ### Azure Guides
 
@@ -52,6 +53,7 @@ Start watching as a beginner and finish up as the master
 * [Cost Optimization on Azure](https://blogs.msdn.microsoft.com/cloud_solution_architect/2018/02/23/cost-optimization-on-azure/)
 * [Strategies to realizing Cost Savings in Azure](https://blogs.msdn.microsoft.com/girishp/2018/02/22/strategies-to-realizing-cost-savings-in-azure/)
 * [Azure DevTest Labs Prescriptive Adoption Guidance](https://github.com/Azure/azure-devtestlab/blob/master/Documentation/Getting%20Started%20with%20DevTest%20Labs.pdf)
+* [k8s Best Practices](https://github.com/Azure/k8s-best-practices)
 
 
 
