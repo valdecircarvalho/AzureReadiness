@@ -38,6 +38,7 @@ Start watching as a beginner and finish up as the master
 * [Azure DevCamp](https://github.com/Azure-Readiness/DevCamp/)
 * [Intertech Azure Training](https://github.com/mehmetkut/intertech-azure-training)
 * [Azure Networking Lab](http://github.com/erjosito/azure-networking-lab)
+* [Docker Tutorials and Labs](https://github.com/jldeen/labs/blob/master/README.md)
 
 ### Azure Guides
 
