@@ -102,6 +102,7 @@ Start watching as a beginner and finish up as the master
 * [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/) - Architecture resources
 * [Designing resilient applications for Azure](https://docs.microsoft.com/en-us/azure/architecture/resiliency/) - Architecture resilicency resources
 * [Azure Virtual Datacenter and the Enterprise Control Plane](https://docs.microsoft.com/en-us/azure/architecture/vdc/) - Azure Virtual Datacenter and the Enterprise Control Plane
+* [Structured review of Azure architectures](https://blogs.msdn.microsoft.com/azurecat/2018/11/13/new-whitepaper-structured-review-of-azure-architectures/)
 
 ### Azure for AWS Professionals
 
