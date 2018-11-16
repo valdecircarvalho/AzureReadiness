@@ -63,84 +63,84 @@ Feel free to contribute !
 
 | Topic | Reference |
 | --- | --- |
-* [Last week in Azure](https://azure.microsoft.com/pt-br/blog/topics/last-week-in-azure/) - Keep current on what's happening in Azure, including what's now in preview, generally available, news & updates, and more.
-* [Azure Notes](https://azurenotes.tech/) - All Azure annoucements with links
-* [Azure Updates](https://azure.microsoft.com/en-gb/updates/) - Learn about important Azure product updates, roadmap and announcements. Subscribe to notifications to stay informed
-* [The Azure Podcast](http://azpodcast.azurewebsites.net/) - Brilliant, well-established weekly podcast series ran by Microsofties. 
-Covers recent key news and an in-depth topic each week
-* [Azure Friday](https://channel9.msdn.com/Shows/Azure-Friday) - Mature weekly video series, Scott Hanselman, Donovan Brown, or Lara Rubbelke host the engineers who build Azure, demo it, answer questions, and share insights
-* [Azure Tuesdays with Corey](https://channel9.msdn.com/Shows/Tuesdays-With-Corey) - Corey Sanders answers your questions about Microsoft Azure - Virtual Machines, Web Sites, Mobile Services, Dev/Test etc. If you have a question, Corey will find the answer!
-* [Azure InfoHub](https://azureinfohub.azurewebsites.net/) - Mark this as your homepage! 
+|Last week in Azure|https://azure.microsoft.com/pt-br/blog/topics/last-week-in-azure/ - Keep current on what's happening in Azure, including what's now in preview, generally available, news & updates, and more|
+|Azure Notes|https://azurenotes.tech/ - All Azure annoucements with links|
+|Azure Updates|https://azure.microsoft.com/en-gb/updates/ - Learn about important Azure product updates, roadmap and announcements. Subscribe to notifications to stay informed|
+|The Azure Podcast|http://azpodcast.azurewebsites.net/ - Brilliant, well-established weekly podcast series ran by Microsofties. 
+Covers recent key news and an in-depth topic each week|
+|Azure Friday|https://channel9.msdn.com/Shows/Azure-Friday - Mature weekly video series, Scott Hanselman, Donovan Brown, or Lara Rubbelke host the engineers who build Azure, demo it, answer questions, and share insights|
+|Azure Tuesdays with Corey|https://channel9.msdn.com/Shows/Tuesdays-With-Corey - Corey Sanders answers your questions about Microsoft Azure - Virtual Machines, Web Sites, Mobile Services, Dev/Test etc. If you have a question, Corey will find the answer!|
+|Azure InfoHub|https://azureinfohub.azurewebsites.net/| - Mark this as your homepage!|
 
 ### Azure Workshops | Demos | Labs 
 
 | Topic | Reference |
 | --- | --- |
-* [Azure DevOps Labs](https://www.azuredevopslabs.com/)
-* [Terraform on Azure](https://azurecitadel.github.io/workshops/terraform/)
-* [Dozen of Azure Workshops](https://azurecitadel.github.io/workshops/)
-* [Dozen of Azure Demos](https://azurecitadel.github.io/demos/)
-* [Dozen of Azure Labs](https://azurecitadel.github.io/labs/)
-* [Azure CAT](https://github.com/AzureCAT-GSI)
-* [Azure enablement with Terraform and focuses on core basics](https://github.com/FraserPol/azure-workshop-training)
-* [Securing Azure Infrastructure - Hands on Lab Guide](https://github.com/Araffe/azure-security-lab)
-* [Azure Management and Monitoring Lab](https://github.com/Araffe/Azure-Monitoring-Lab)
-* [Azure Virtual Data Centre Lab](https://github.com/Araffe/vdc-networking-lab)
-* [Azure DevCamp](https://github.com/Azure-Readiness/DevCamp/)
-* [Intertech Azure Training](https://github.com/mehmetkut/intertech-azure-training)
-* [Azure Networking Lab](http://github.com/erjosito/azure-networking-lab)
-* [Docker Tutorials and Labs](https://github.com/jldeen/labs/blob/master/README.md)
-* [Azure Terraform Training Workshop](https://github.com/scarolan/azure-workshop-training)
-* [Azure Resource Manager: Demystified](https://github.com/krnese/AzureDeploy/tree/master/ARM)
-* [Azure OpenSource Labs](https://github.com/Microsoft-OpenSource-Labs) - Github repo with opensource labs on Azure 
-* [Azure DevTestLabs artifacts](https://github.com/Azure/azure-devtestlab) - Github repo with devtestlabs artifacts
-* [SmartHotel360](https://github.com/Microsoft/SmartHotel360) - Reference Sample and Azure Backend
-* [HealthClinic.biz](https://github.com/Microsoft/HealthClinic.biz) - End-to-end demo scenario based on a fictitious B2B and multitenant system
+|Azure DevOps Labs|https://www.azuredevopslabs.com/|
+|Terraform on Azure|https://azurecitadel.github.io/workshops/terraform/|
+|Dozen of Azure Workshops|https://azurecitadel.github.io/workshops/|
+|Dozen of Azure Demos|https://azurecitadel.github.io/demos/|
+|Dozen of Azure Labs|https://azurecitadel.github.io/labs/|
+|Azure CAT|https://github.com/AzureCAT-GSI|
+|Azure enablement with Terraform and focuses on core basics|https://github.com/FraserPol/azure-workshop-training|
+|Securing Azure Infrastructure - Hands on Lab Guide|https://github.com/Araffe/azure-security-lab|
+|Azure Management and Monitoring Lab|https://github.com/Araffe/Azure-Monitoring-Lab|
+|Azure Virtual Data Centre Lab|https://github.com/Araffe/vdc-networking-lab|
+|Azure DevCamp|https://github.com/Azure-Readiness/DevCamp/|
+|Intertech Azure Training|https://github.com/mehmetkut/intertech-azure-training|
+|Azure Networking Lab|http://github.com/erjosito/azure-networking-lab|
+|Docker Tutorials and Labs|https://github.com/jldeen/labs/blob/master/README.md|
+|Azure Terraform Training Workshop|https://github.com/scarolan/azure-workshop-training|
+|Azure Resource Manager: Demystified|https://github.com/krnese/AzureDeploy/tree/master/ARM|
+|Azure OpenSource Labs|https://github.com/Microsoft-OpenSource-Labs - Github repo with opensource labs on Azure|
+|Azure DevTestLabs artifacts|https://github.com/Azure/azure-devtestlab - Github repo with devtestlabs artifacts|
+|SmartHotel360|https://github.com/Microsoft/SmartHotel360 - Reference Sample and Azure Backend|
+|HealthClinic.biz|https://github.com/Microsoft/HealthClinic.biz - End-to-end demo scenario based on a fictitious B2B and multitenant system|
 |Microsoft Visual Studio DevOps Hands-On-Labs|https://almvm.azurewebsites.net/|
 
 ### Azure Guides and Papers
 
 | Topic | Reference |
 | --- | --- |
-* [Dozen of Azure Guides](https://azurecitadel.github.io/guides/)
-* [Understanding Azure: A guide for developers](http://download.microsoft.com/download/2/C/F/2CF7401A-B9D7-4828-917D-199E0896BFE5/Azure_Developer_Guide_eBook.pdf)
-* [Get started guide for Azure IT operators - PDF Version](https://docsmsftpdfs.blob.core.windows.net/guides/azure/azure-ops-guide.pdf) - Get started guide for Azure IT operators
-* [Get started guide for Azure IT operators - Web Version](https://docs.microsoft.com/en-us/azure/guides/operations/azure-operations-guide)
-* [Get started guide for Azure developers](https://docsmsftpdfs.blob.core.windows.net/guides/azure/azure-developer-guide.pdf) - Get started guide for Azure developers
-* [Azure Onboarding Guide for IT Organizations](https://azure.microsoft.com/mediahandler/files/resourcefiles/d8e7430c-8f62-4bbb-9ca2-f2bc877b48bd/Azure%20Onboarding%20Guide%20for%20IT%20Organizations.pdf)
-* [Azure IaaS Operations Guidance](http://aka.ms/Azure/IaaSOpsGuide) 
-* [Azure Express Route Guide](https://rmartins.blob.core.windows.net/documentos/MicrosoftAzureExpressRoute.pdf)
-* [Cost Optimization on Azure](https://blogs.msdn.microsoft.com/cloud_solution_architect/2018/02/23/cost-optimization-on-azure/)
-* [Strategies to realizing Cost Savings in Azure](https://blogs.msdn.microsoft.com/girishp/2018/02/22/strategies-to-realizing-cost-savings-in-azure/)
-* [Azure DevTest Labs Prescriptive Adoption Guidance](https://github.com/Azure/azure-devtestlab/blob/master/Documentation/Getting%20Started%20with%20DevTest%20Labs.pdf)
-* [k8s Best Practices](https://github.com/Azure/k8s-best-practices)
-* [Best practices Using Azure Resource Manager Templates](https://blogs.msdn.microsoft.com/mvpawardprogram/2018/05/01/azure-resource-manager/) - Best practices Using Azure Resource Manager Templates
-* [Azure Availability Zones Quick Tour and Guide](https://blogs.msdn.microsoft.com/igorpag/2018/05/03/azure-availability-zones-quick-tour-and-guide/) - Azure Availability Zones Quick Tour and Guide
-* [Azure Stragedy and Implementation Guide](https://azure.microsoft.com/en-us/resources/azure-strategy-and-implementation-guide/)
-* [Azure Virtual Data Center](https://azure.microsoft.com/mediahandler/files/resourcefiles/1ad643b8-73f7-43f6-b05a-8e160168f9df/Azure-Virtual-Datacenter.pdf) - Understanding of Azure Datacentres, Security and Isolation
-* [A Cloud for a Global Good](https://news.microsoft.com/cloudforgood/) - a book of policy recommendations for governments, industry and civil society to help ensure that the opportunities of technology are evenly shared, and that challenges facing society are identified early and practical solutions applied
-* [Azure Network Security](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-network-security/Azure%20Network%20Security.pdf) - This white paper provides details on the networking functions of Azure. It also describes how customers can use the native security features in Azure to help protect their information assets.
-* [Microsoft Cloud Red Teaming](https://rmartins.blob.core.windows.net/documentos/MicrosoftCloudRedTeaming.pdf)
-* [Modern Service Management for Azure](https://azure.microsoft.com/mediahandler/files/resourcefiles/b6ea597e-2ca2-4bfb-9adc-c8d7292bc81a/Modern%20Service%20Management%20for%20Azure%20v1.1.pdf)
-* [Enterprise Cloud Strategy](https://info.microsoft.com/rs/157-GQE-382/images/EN-US-CNTNT-ebook-Enterprise_Cloud_Strategy_2nd_Edition_AzureInfrastructure.pdf) - Here, you’ll see what makes the cloud so compelling to enterprises; which applications you should consider as you begin your cloud journey; how your organization will change
-* [Governance in Azure](https://docs.microsoft.com/en-us/azure/security/governance-in-azure) - Informations about Azure Governance
-* [Azure QuickStart Templates](https://github.com/Azure/azure-quickstart-templates) - Github Repo with usefull Azure templates
-* [Microsoft Tech](https://www.microsofttech.com.br/) - Microsoft Tech Blog (PT-BR)
-* [Azure Readiness Repo](https://github.com/Azure-Readiness) - Github Repo with labs, samples and demos
-* [Awesome Azure Advanced Analytics](https://github.com/bensadeghi/Awesome-Azure-Advanced-Analytics) - Awesome repo with several topics on Azure Advanved Analytics
-* [Resource Manager Template Reference](https://azure.microsoft.com/en-us/blog/azure-resource-manager-template-reference-now-available/) - References to ARM Templates
-* [Azure Documentation Updates](http://azuredocsupdates.azurewebsites.net/) - A community project to share the status about azure documentation updates
+|Dozen of Azure Guides|https://azurecitadel.github.io/guides/|
+|Understanding Azure: A guide for developers|http://download.microsoft.com/download/2/C/F/2CF7401A-B9D7-4828-917D-199E0896BFE5/Azure_Developer_Guide_eBook.pdf|
+|Get started guide for Azure IT operators - PDF Version|https://docsmsftpdfs.blob.core.windows.net/guides/azure/azure-ops-guide.pdf - Get started guide for Azure IT operators|
+|Get started guide for Azure IT operators - Web Version|https://docs.microsoft.com/en-us/azure/guides/operations/azure-operations-guide|
+|Get started guide for Azure developers|https://docsmsftpdfs.blob.core.windows.net/guides/azure/azure-developer-guide.pdf - Get started guide for Azure developers|
+|Azure Onboarding Guide for IT Organizations|https://azure.microsoft.com/mediahandler/files/resourcefiles/d8e7430c-8f62-4bbb-9ca2-f2bc877b48bd/Azure%20Onboarding%20Guide%20for%20IT%20Organizations.pdf|
+|Azure IaaS Operations Guidance|http://aka.ms/Azure/IaaSOpsGuide|
+|Azure Express Route Guide|https://rmartins.blob.core.windows.net/documentos/MicrosoftAzureExpressRoute.pdf|
+|Cost Optimization on Azure|https://blogs.msdn.microsoft.com/cloud_solution_architect/2018/02/23/cost-optimization-on-azure/|
+|Strategies to realizing Cost Savings in Azure|https://blogs.msdn.microsoft.com/girishp/2018/02/22/strategies-to-realizing-cost-savings-in-azure/|
+|Azure DevTest Labs Prescriptive Adoption Guidance|https://github.com/Azure/azure-devtestlab/blob/master/Documentation/Getting%20Started%20with%20DevTest%20Labs.pdf|
+|k8s Best Practices|https://github.com/Azure/k8s-best-practices|
+|Best practices Using Azure Resource Manager Templates|https://blogs.msdn.microsoft.com/mvpawardprogram/2018/05/01/azure-resource-manager/ - Best practices Using Azure Resource Manager Templates|
+|Azure Availability Zones Quick Tour and Guide|https://blogs.msdn.microsoft.com/igorpag/2018/05/03/azure-availability-zones-quick-tour-and-guide/ - Azure Availability Zones Quick Tour and Guide|
+|Azure Stragedy and Implementation Guide|https://azure.microsoft.com/en-us/resources/azure-strategy-and-implementation-guide/)
+|Azure Virtual Data Center|https://azure.microsoft.com/mediahandler/files/resourcefiles/1ad643b8-73f7-43f6-b05a-8e160168f9df/Azure-Virtual-Datacenter.pdf - Understanding of Azure Datacentres, Security and Isolation|
+|A Cloud for a Global Good|https://news.microsoft.com/cloudforgood/ - a book of policy recommendations for governments, industry and civil society to help ensure that the opportunities of technology are evenly shared, and that challenges facing society are identified early and practical solutions applied|
+|Azure Network Security|https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-network-security|/Azure%20Network%20Security.pdf - This white paper provides details on the networking functions of Azure. It also describes how customers can use the native security features in Azure to help protect their information assets.|
+|Microsoft Cloud Red Teaming|https://rmartins.blob.core.windows.net/documentos/MicrosoftCloudRedTeaming.pdf|
+|Modern Service Management for Azure|https://azure.microsoft.com/mediahandler/files/resourcefiles/b6ea597e-2ca2-4bfb-9adc-c8d7292bc81a/Modern%20Service%20Management%20for%20Azure%20v1.1.pdf|
+|Enterprise Cloud Strategy|https://info.microsoft.com/rs/157-GQE-382/images/EN-US-CNTNT-ebook-Enterprise_Cloud_Strategy_2nd_Edition_AzureInfrastructure.pdf - Here, you’ll see what makes the cloud so compelling to enterprises; which applications you should consider as you begin your cloud journey; how your organization will change|
+|Governance in Azure|https://docs.microsoft.com/en-us/azure/security/governance-in-azure - Informations about Azure Governance|
+|Azure QuickStart Templates|https://github.com/Azure/azure-quickstart-templates - Github Repo with usefull Azure templates|
+|Microsoft Tech|https://www.microsofttech.com.br/ - Microsoft Tech Blog (PT-BR)|
+|Azure Readiness Repo|https://github.com/Azure-Readiness - Github Repo with labs, samples and demos|
+|Awesome Azure Advanced Analytics|https://github.com/bensadeghi/Awesome-Azure-Advanced-Analytics - Awesome repo with several topics on Azure Advanved Analytics|
+|Resource Manager Template Reference|https://azure.microsoft.com/en-us/blog/azure-resource-manager-template-reference-now-available/ - References to ARM Templates|
+|Azure Documentation Updates|http://azuredocsupdates.azurewebsites.net/ - A community project to share the status about azure documentation updates|
 
 ### Events, Shows, Videos and Meetings
 
 | Topic | Reference |
 | --- | --- |
-* [Azure Power Lunch](http://azurepowerlunch.com/) -  Join experts from Microsoft, your peers and partners for an Azure learning session series – targeted at helping our customers and partners derive the most value from Azure. In each 30-minutes weekly session, this technical series will focus on keeping you up-to-date with new and appetizing updates to Azure cloud platform
-* [Microsoft Technical Events](https://www.microsoft.com/en-gb/developers/events/) - Curated list of all up and coming Microsoft Events, Including Azure Bitesize Learning series, ran by our very own Simon Thurman. 
-* [Channel9](https://channel9.msdn.com/) - Microsoft Channel with videos, screencasts, intervew and much more related to Azure and other Microsoft services
-* [Microsoft Mechanics](https://www.youtube.com/user/OfficeGarageSeries) - The official tech show from Microsoft that covers your favorite tech and news across Microsoft
-* [The complete guide to the Azure Essentials](https://www.youtube.com/playlist?list=PLXtHYVsvn_b8xpydYGuVR0b7gWu4JJfRh) - How much Azure you can learn in 5 to 6 minutes? A lot. Matt McSpirit is your guide through identity, compute, data, DevOps, and Azure for AWS Professionals. Each video is packed with in-product experiences and illustrative motion graphics
-* [Microsoft Mechanics on Channel9](https://channel9.msdn.com/Shows/Mechanics)
+|Azure Power Lunch|http://azurepowerlunch.com/ -  Join experts from Microsoft, your peers and partners for an Azure learning session series – targeted at helping our customers and partners derive the most value from Azure. In each 30-minutes weekly session, this technical series will focus on keeping you up-to-date with new and appetizing updates to Azure cloud platform|
+|Microsoft Technical Events|https://www.microsoft.com/en-gb/developers/events/) - Curated list of all up and coming Microsoft Events, Including Azure Bitesize Learning series, ran by our very own Simon Thurman|
+|Channel9|https://channel9.msdn.com/ - Microsoft Channel with videos, screencasts, intervew and much more related to Azure and other Microsoft services|
+|Microsoft Mechanics|https://www.youtube.com/user/OfficeGarageSeries - The official tech show from Microsoft that covers your favorite tech and news across Microsoft|
+|The complete guide to the Azure Essentials|https://www.youtube.com/playlist?list=PLXtHYVsvn_b8xpydYGuVR0b7gWu4JJfRh - How much Azure you can learn in 5 to 6 minutes? A lot. Matt McSpirit is your guide through identity, compute, data, DevOps, and Azure for AWS Professionals. Each video is packed with in-product experiences and illustrative motion graphics|
+|Microsoft Mechanics on Channel9|https://channel9.msdn.com/Shows/Mechanics|
 
 ### DevOps
 
