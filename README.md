@@ -6,36 +6,38 @@ Feel free to contribute !
 ## Focussed List
 | Topic | Reference |
 | --- | --- |
-|Azure Learn|(https://docs.microsoft.com/en-us/learn/azure/) - Announced at Ignite, Microsoft Learn offers customers, partners, and employees micro-learning modules to grow technical skills. Operating as Microsoft’s core technical educational offering, it is designed to provide each audience a “learn by doing” experience|
-|Microsoft Professional Program|(https://academy.microsoft.com/en-us/professional-program/) - Deep technical tracks which require a lot of effort.  Fantastic, comprehensive content - but not for the faint hearted. *Developers* *Generalists* and *Data Scientists*|
-|Microsoft on EDX|(https://www.edx.org/school/microsoft) - Free online courses from Microsoft at EDX|
+|Azure Learn|https://docs.microsoft.com/en-us/learn/azure/ - Announced at Ignite, Microsoft Learn offers customers, partners, and employees micro-learning modules to grow technical skills. Operating as Microsoft’s core technical educational offering, it is designed to provide each audience a “learn by doing” experience|
+|Microsoft Professional Program|https://academy.microsoft.com/en-us/professional-program/ - Deep technical tracks which require a lot of effort.  Fantastic, comprehensive content - but not for the faint hearted. *Developers* *Generalists* and *Data Scientists*|
+|Microsoft on EDX|https://www.edx.org/school/microsoft - Free online courses from Microsoft at EDX|
 
 ## Ignite 2018
 
 | Topic | Reference |
 | --- | --- |
-|Ignite Home|(https://aka.ms/Ignite2018) - Indepth video sessions from September 2018 Ignite Conference. Latest feature annoucements.  See more detailed curated list below for relevant capabilities.| 
-|Azure Governance|(https://aka.ms/Ignite2018/AzureGovernance)|
-|IaaS|(https://aka.ms/Ignite2018/AzureIaaS)|
-|Azure Integration|(https://aka.ms/Ignite2018/AzureIntegration)|
-|Azure Kubernetes|(https://aka.ms/Ignite2018/AzureKubernetes)|
-|Azure Migration|(https://aka.ms/Ignite2018/AzureMigration)|
-|Azure Monitor|(https://aka.ms/Ignite2018/AzureMonitor)|
-|Azure NetApp Files|(https://aka.ms/Ignite2018/AzureNetAppFiles)|
-|Azure Networking|(https://aka.ms/Ignite2018/AzureNetworking)|
-|Azure Operations|(https://aka.ms/Ignite2018/AzureOperations)|
-|SAP on Azure|(https://aka.ms/Ignite2018/AzureSAP)|
-|Azure Security and Monitoring|(https://aka.ms/Ignite2018/AzureSecurityAndManagement)|
-|Serverless|(https://aka.ms/Ignite2018/AzureServerless)|
-|Azure Storage|(https://aka.ms/Ignite2018/AzureStorage)|
-|Windows Virtual Desktop on Azure|(https://aka.ms/Ignite2018/WindowsVirtualDesktop)|
-|Ignite Book of Updates|(https://aka.ms/ignite-envision2018) - Summary paper of all technical updates annouced at Microsoft Ignite 18 - with URL links|
-|Ignite Session Download Tool|(https://gallery.technet.microsoft.com/Ignite-2016-Slidedeck-and-296df316) - A Great way to bulk download videos and slide decks from Ignite is through this PowerShell script|
+|Ignite Home|https://aka.ms/Ignite2018 - Indepth video sessions from September 2018 Ignite Conference. Latest feature annoucements.  See more detailed curated list below for relevant capabilities.| 
+|Azure Governance|https://aka.ms/Ignite2018/AzureGovernance|
+|IaaS|https://aka.ms/Ignite2018/AzureIaaS|
+|Azure Integration|https://aka.ms/Ignite2018/AzureIntegration|
+|Azure Kubernetes|https://aka.ms/Ignite2018/AzureKubernetes|
+|Azure Migration|https://aka.ms/Ignite2018/AzureMigration|
+|Azure Monitor|https://aka.ms/Ignite2018/AzureMonitor|
+|Azure NetApp Files|https://aka.ms/Ignite2018/AzureNetAppFiles|
+|Azure Networking|https://aka.ms/Ignite2018/AzureNetworking|
+|Azure Operations|https://aka.ms/Ignite2018/AzureOperations|
+|SAP on Azure|https://aka.ms/Ignite2018/AzureSAP|
+|Azure Security and Monitoring|https://aka.ms/Ignite2018/AzureSecurityAndManagement|
+|Serverless|https://aka.ms/Ignite2018/AzureServerless|
+|Azure Storage|https://aka.ms/Ignite2018/AzureStorage|
+|Windows Virtual Desktop on Azure|https://aka.ms/Ignite2018/WindowsVirtualDesktop|
+|Ignite Book of Updates|https://aka.ms/ignite-envision2018 - Summary paper of all technical updates annouced at Microsoft Ignite 18 - with URL links|
+|Ignite Session Download Tool|https://gallery.technet.microsoft.com/Ignite-2016-Slidedeck-and-296df316 - A Great way to bulk download videos and slide decks from Ignite is through this PowerShell script|
 
 ## Full List
 
 ### Free training and courses
 
+| Topic | Reference |
+| --- | --- |
 * [Azure Learning in Linkedin](https://www.linkedin.com/learning/search?keywords=Azure&u=3322) - Lots of Azure courses as well as AWS and Google also. Good offline app as part of the LinkedIn Mobile App - learn on the go
 * [Azure Free Trainings at Pluralsight](http://pluralsight.com/partners/microsoft/azure) - Free trainings for Azure from Pluralsight and Microsoft
 * [Microsoft Self Passed Labs](https://www.microsoft.com/handsonlabs/SelfPacedLabs) - Microsoft Self Passed Labs
@@ -58,6 +60,9 @@ Feel free to contribute !
 * [Azure Courses on Cloud Academy](https://cloudacademy.com/library/?q=Azure)
 
 ### Weekly Updates
+
+| Topic | Reference |
+| --- | --- |
 * [Last week in Azure](https://azure.microsoft.com/pt-br/blog/topics/last-week-in-azure/) - Keep current on what's happening in Azure, including what's now in preview, generally available, news & updates, and more.
 * [Azure Notes](https://azurenotes.tech/) - All Azure annoucements with links
 * [Azure Updates](https://azure.microsoft.com/en-gb/updates/) - Learn about important Azure product updates, roadmap and announcements. Subscribe to notifications to stay informed
@@ -69,6 +74,8 @@ Covers recent key news and an in-depth topic each week
 
 ### Azure Workshops | Demos | Labs 
 
+| Topic | Reference |
+| --- | --- |
 * [Azure DevOps Labs](https://www.azuredevopslabs.com/)
 * [Terraform on Azure](https://azurecitadel.github.io/workshops/terraform/)
 * [Dozen of Azure Workshops](https://azurecitadel.github.io/workshops/)
@@ -92,6 +99,8 @@ Covers recent key news and an in-depth topic each week
 
 ### Azure Guides and Papers
 
+| Topic | Reference |
+| --- | --- |
 * [Dozen of Azure Guides](https://azurecitadel.github.io/guides/)
 * [Understanding Azure: A guide for developers](http://download.microsoft.com/download/2/C/F/2CF7401A-B9D7-4828-917D-199E0896BFE5/Azure_Developer_Guide_eBook.pdf)
 * [Get started guide for Azure IT operators - PDF Version](https://docsmsftpdfs.blob.core.windows.net/guides/azure/azure-ops-guide.pdf) - Get started guide for Azure IT operators
@@ -123,6 +132,8 @@ Covers recent key news and an in-depth topic each week
 
 ### Events, Shows, Videos and Meetings
 
+| Topic | Reference |
+| --- | --- |
 * [Azure Power Lunch](http://azurepowerlunch.com/) -  Join experts from Microsoft, your peers and partners for an Azure learning session series – targeted at helping our customers and partners derive the most value from Azure. In each 30-minutes weekly session, this technical series will focus on keeping you up-to-date with new and appetizing updates to Azure cloud platform
 * [Microsoft Technical Events](https://www.microsoft.com/en-gb/developers/events/) - Curated list of all up and coming Microsoft Events, Including Azure Bitesize Learning series, ran by our very own Simon Thurman. 
 * [Channel9](https://channel9.msdn.com/) - Microsoft Channel with videos, screencasts, intervew and much more related to Azure and other Microsoft services
@@ -132,6 +143,8 @@ Covers recent key news and an in-depth topic each week
 
 ### DevOps
 
+| Topic | Reference |
+| --- | --- |
 * [DevOps Resource Center](https://docs.microsoft.com/en-us/azure/devops/) -  Resources on learning DevOps practices, Git version control, Agile methods, how we work with DevOps at Microsoft, and how you can assess your own DevOps progression.
 * [VSTS Docs](https://docs.microsoft.com/en-us/vsts/index) - Everything that you've ever wanted to know about DevOps and VSTS
 * [Visual Studio - DevOps](https://www.visualstudio.com/devops/) - Your guide through the theory and implementation of DevOps
@@ -141,6 +154,8 @@ Covers recent key news and an in-depth topic each week
 
 ### Kubernetes
 
+| Topic | Reference |
+| --- | --- |
 * [Lachlan Evenson YouTube](https://www.youtube.com/channel/UCC5NsnXM2lE6kKfJKdQgsRQ) - Lachie Evensen (Principle PM for Azure Container Services) YouTube Channel
 * [TGI Kubernetes by Heptio](https://www.youtube.com/channel/UCjQU5ZI2mHswy7OOsii_URg/videos) - Huge amount of videos on Kubernetes
 * [Hands-On:Kubernetes BootCamp](https://kubernetesbootcamp.github.io/kubernetes-bootcamp/index.html) - By the end of this bootcamp you will understand what Kubernetes does. You will also learn how to deploy, scale, update and debug containerized applications on a Kubernetes cluster using an interactive online terminal
@@ -149,6 +164,8 @@ Covers recent key news and an in-depth topic each week
 
 ### Architecture
 
+| Topic | Reference |
+| --- | --- |
 * [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/) - Architecture resources
 * [Designing resilient applications for Azure](https://docs.microsoft.com/en-us/azure/architecture/resiliency/) - Architecture resilicency resources
 * [Azure Virtual Datacenter and the Enterprise Control Plane](https://docs.microsoft.com/en-us/azure/architecture/vdc/) - Azure Virtual Datacenter and the Enterprise Control Plane
@@ -156,6 +173,8 @@ Covers recent key news and an in-depth topic each week
 
 ### Azure for AWS Professionals
 
+| Topic | Reference |
+| --- | --- |
 * [AWS to Azure services comparison](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
 * [Introduction to Microsoft Azure accounts, platform, and services for AWS experts](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/index) - Azure for AWS experts
 * [Azure for AWS Professionals - Learning Path](https://azure.microsoft.com/en-us/training/learning-paths/azure-for-aws-professional/) - Learning path for AWS Professionals
@@ -169,34 +188,39 @@ Covers recent key news and an in-depth topic each week
 * [(Part 5) Microsoft Azure for Amazon AWS Cloud Professionals: Migrating to Azure](https://channel9.msdn.com/Shows/TechNet+Radio/TNR1671)
 
 ### Useful PDFs
-* [From Agile to DevOps at Microsoft Developer Division e-book ](https://www.microsoft.com/en-us/download/details.aspx?id=46920)
-* [Azure Stragedy and Implementation Guide](https://azure.microsoft.com/en-us/resources/azure-strategy-and-implementation-guide/)
-* [Azure Virtual Data Center](https://azure.microsoft.com/mediahandler/files/resourcefiles/1ad643b8-73f7-43f6-b05a-8e160168f9df/Azure-Virtual-Datacenter.pdf)
-* [A Cloud for a Global Good](https://news.microsoft.com/cloudforgood/_media/downloads/a-cloud-for-global-good-english.pdf)
-* [Azure Network Security](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-network-security/Azure%20Network%20Security.pdf)
-* [Defending the new perimeter](https://rmartins.blob.core.windows.net/documentos/DefendingTheNewPerimeter.pdf)
-* [Microsoft Azure Security Infrastructure](https://rmartins.blob.core.windows.net/documentos/MicrosoftAzureSecurityInfrastructure.pdf)
-* [Microsoft Azure Security Response in the cloud](https://rmartins.blob.core.windows.net/documentos/MicrosoftAzureSecurityResponseinthecloud.pdf)
-* [Microsoft Cloud Red Teaming](https://rmartins.blob.core.windows.net/documentos/MicrosoftCloudRedTeaming.pdf)
-* [Questions to Ask Your Cloud Provider](http://download.microsoft.com/download/F/7/8/F7893E04-633E-45B1-A7F6-CF043715DA5A/Trusted_Cloud_Questions_to_ask_your_Cloud_Provider_EN_US.pdf)
-* [Microsoft Azure & AWS: Cloud Service Map](aka.ms/awsazureguide)
-* [Modern Service Management for Azure](https://azure.microsoft.com/mediahandler/files/resourcefiles/b6ea597e-2ca2-4bfb-9adc-c8d7292bc81a/Modern%20Service%20Management%20for%20Azure%20v1.1.pdf)
-* [Enterprise Cloud Strategy](https://info.microsoft.com/rs/157-GQE-382/images/EN-US-CNTNT-ebook-Enterprise_Cloud_Strategy_2nd_Edition_AzureInfrastructure.pdf)
+
+| Topic | Reference |
+| --- | --- |
+|From Agile to DevOps at Microsoft Developer Division e-book|https://www.microsoft.com/en-us/download/details.aspx?id=46920|
+|Azure Stragedy and Implementation Guide|https://azure.microsoft.com/en-us/resources/azure-strategy-and-implementation-guide|
+|Azure Virtual Data Center|https://azure.microsoft.com/mediahandler/files/resourcefiles/1ad643b8-73f7-43f6-b05a-8e160168f9df/Azure-Virtual-Datacenter.pdf|
+|A Cloud for a Global Good|https://news.microsoft.com/cloudforgood/_media/downloads/a-cloud-for-global-good-english.pdf|
+|Azure Network Security|https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-network-security/Azure%20Network%20Security.pdf|
+|Defending the new perimeter|https://rmartins.blob.core.windows.net/documentos/DefendingTheNewPerimeter.pdf|
+|Microsoft Azure Security Infrastructure|https://rmartins.blob.core.windows.net/documentos/MicrosoftAzureSecurityInfrastructure.pdf|
+|Microsoft Azure Security Response in the cloud|https://rmartins.blob.core.windows.net/documentos/MicrosoftAzureSecurityResponseinthecloud.pdf|
+|Microsoft Cloud Red Teaming|https://rmartins.blob.core.windows.net/documentos/MicrosoftCloudRedTeaming.pdf|
+|Questions to Ask Your Cloud Provider|http://download.microsoft.com/download/F/7/8/F7893E04-633E-45B1-A7F6-CF043715DA5A/Trusted_Cloud_Questions_to_ask_your_Cloud_Provider_EN_US.pdf|
+|Microsoft Azure & AWS: Cloud Service Map|aka.ms/awsazureguide|
+|Modern Service Management for Azure|https://azure.microsoft.com/mediahandler/files/resourcefiles/b6ea597e-2ca2-4bfb-9adc-c8d7292bc81a/Modern%20Service%20Management%20for%20Azure%20v1.1.pdf|
+|Enterprise Cloud Strategy|https://info.microsoft.com/rs/157-GQE-382/images/EN-US-CNTNT-ebook-Enterprise_Cloud_Strategy_2nd_Edition_AzureInfrastructure.pdf|
 
 ### Azure Free Account
-
 A list of usefull links explaining about the common doubts related to Azure Free Account:
-* [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-us/free/)
-* [https://azure.microsoft.com/en-us/free/free-account-faq/](https://azure.microsoft.com/en-us/free/free-account-faq/)
-* [https://docs.microsoft.com/en-us/azure/billing/billing-create-free-services-included-free-account](https://docs.microsoft.com/en-us/azure/billing/billing-create-free-services-included-free-account)
-* [https://docs.microsoft.com/en-us/azure/billing/billing-avoid-charges-free-account](https://docs.microsoft.com/en-us/azure/billing/billing-avoid-charges-free-account)
+
+| Topic | Reference |
+| --- | --- |
+|https://azure.microsoft.com/en-us/free/|https://azure.microsoft.com/en-us/free/|
+|https://azure.microsoft.com/en-us/free/free-account-faq/|https://azure.microsoft.com/en-us/free/free-account-faq/|
+|https://docs.microsoft.com/en-us/azure/billing/billing-create-free-services-included-free-account|https://docs.microsoft.com/en-us/azure/billing/billing-create-free-services-included-free-account|
+|https://docs.microsoft.com/en-us/azure/billing/billing-avoid-charges-free-account|https://docs.microsoft.com/en-us/azure/billing/billing-avoid-charges-free-account|
 
 ### Other Curated Lists
 
-* [Awesome Azure Advanced Analytics](https://github.com/bensadeghi/Awesome-Azure-Advanced-Analytics) - Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
-* [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - An enormous list of Kubernetes resources
-
-
+| Topic | Reference |
+| --- | --- |
+|Awesome Azure Advanced Analytics|https://github.com/bensadeghi/Awesome-Azure-Advanced-Analytics - Awesome big data and advanced analytics resources for the Microsoft Azure Cloud|
+|Awesome Kubernetes|https://github.com/ramitsurana/awesome-kubernetes - An enormous list of Kubernetes resources|
 
 ---
 
