@@ -38,26 +38,26 @@ Feel free to contribute !
 
 | Topic | Reference |
 | --- | --- |
-* [Azure Learning in Linkedin](https://www.linkedin.com/learning/search?keywords=Azure&u=3322) - Lots of Azure courses as well as AWS and Google also. Good offline app as part of the LinkedIn Mobile App - learn on the go
-* [Azure Free Trainings at Pluralsight](http://pluralsight.com/partners/microsoft/azure) - Free trainings for Azure from Pluralsight and Microsoft
-* [Microsoft Self Passed Labs](https://www.microsoft.com/handsonlabs/SelfPacedLabs) - Microsoft Self Passed Labs
-* [Databricks Academy on Azure](https://academy.databricks.com) - extensive set of notebooks on individual aspects of Apache Spark (currently focused on dev/data engineer). You can learn the best practices and get to know Spark at depth.
-* [Microsoft on EDX](https://www.edx.org/school/microsoft) - Free online courses from Microsoft at EDX
-* [Azure Hands-on Labs](https://azure.microsoft.com/pt-br/training/hands-on-labs/) - Azure Hands-on Labs
-* [Microsoft Hands-on Labs](https://www.microsoft.com/handsonlabs) - Microsoft Hands-on Labs
-* [Microsoft Self Passed Labs](https://www.microsoft.com/handsonlabs/SelfPacedLabs) - Microsoft Self Passed Labs
-* [Azure Essentials](https://www.microsoft.com/pt-br/azureessentials) - Azure initial steps training
-* [Learn Analytics](https://learnanalytics.microsoft.com/) - Data and AI Training
-* [AI School](https://aischool.microsoft.com/) - Dive in and learn how to start building intelligence into your solutions with the Microsoft AI platform
-* [Microsoft Professional Program](https://academy.microsoft.com/en-us/professional-program/) - Tracks for your professional development on Data Science, BigData, Frontend Development, Cloud Administration and DevOps
-* [Azure Learn](https://docs.microsoft.com/en-us/learn/azure/) - Unlock your cloud skills in minutes
-* [Azure Free Trainings at Pluralsight](http://pluralsight.com/partners/microsoft/azure) - Free trainings for Azure from Pluralsight and Microsoft
-* [Azure Certification and Trainings](https://www.microsoft.com/en-us/learning/azure-training.aspx) - Azure Certification and Trainings
-* [EDX](https://www.edx.org/course?search_query=Azure) - Azure at EDX
-* [CloudAcademy](https://cloudacademy.com/library/?q=Azure) - Azure at CloudAcademy
-* [Microsoft Virtual Academy (Azure Courses)](https://mva.microsoft.com/product-training/microsoft-azure#!lang=1033)
-* [Microsoft Virtual Academy (Visual Studio Courses)](https://mva.microsoft.com/product-training/visual-studio-courses#!lang=1033)
-* [Azure Courses on Cloud Academy](https://cloudacademy.com/library/?q=Azure)
+|Azure Learning in Linkedin|https://www.linkedin.com/learning/search?keywords=Azure&u=3322 - Lots of Azure courses as well as AWS and Google also. Good offline app as part of the LinkedIn Mobile App - learn on the go|
+|Azure Free Trainings at Pluralsight|http://pluralsight.com/partners/microsoft/azure - Free trainings for Azure from Pluralsight and Microsoft|
+|Microsoft Self Passed Labs|https://www.microsoft.com/handsonlabs/SelfPacedLabs - Microsoft Self Passed Labs|
+|Databricks Academy on Azure|https://academy.databricks.com - extensive set of notebooks on individual aspects of Apache Spark (currently focused on dev/data engineer). You can learn the best practices and get to know Spark at depth.|
+|Microsoft on EDX|https://www.edx.org/school/microsoft - Free online courses from Microsoft at EDX|
+|Azure Hands-on Labs|https://azure.microsoft.com/pt-br/training/hands-on-labs/) - Azure Hands-on Labs|
+|Microsoft Hands-on Labs|https://www.microsoft.com/handsonlabs - Microsoft Hands-on Labs|
+|Microsoft Self Passed Labs|https://www.microsoft.com/handsonlabs/SelfPacedLabs - Microsoft Self Passed Labs|
+|Azure Essentials|https://www.microsoft.com/pt-br/azureessentials - Azure initial steps training|
+|Learn Analytics|https://learnanalytics.microsoft.com/ - Data and AI Training|
+|AI School|https://aischool.microsoft.com/ - Dive in and learn how to start building intelligence into your solutions with the Microsoft AI platform|
+|Microsoft Professional Program|https://academy.microsoft.com/en-us/professional-program/ - Tracks for your professional development on Data Science, BigData, Frontend Development, Cloud Administration and DevOps|
+|Azure Learn|https://docs.microsoft.com/en-us/learn/azure/ - Unlock your cloud skills in minutes|
+|Azure Free Trainings at Pluralsight|http://pluralsight.com/partners/microsoft/azure - Free trainings for Azure from Pluralsight and Microsoft|
+|Azure Certification and Trainings|https://www.microsoft.com/en-us/learning/azure-training.aspx - Azure Certification and Trainings|
+|EDX|https://www.edx.org/course?search_query=Azure - Azure at EDX|
+|CloudAcademy|https://cloudacademy.com/library/?q=Azure - Azure at CloudAcademy|
+|Microsoft Virtual Academy (Azure Courses)]|https://mva.microsoft.com/product-training/microsoft-azure#!lang=1033|
+|Microsoft Virtual Academy (Visual Studio Courses)|https://mva.microsoft.com/product-training/visual-studio-courses#!lang=1033|
+|Azure Courses on Cloud Academy|https://cloudacademy.com/library/?q=Azure|
 
 ### Weekly Updates
 
