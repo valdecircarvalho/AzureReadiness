@@ -96,6 +96,7 @@ Covers recent key news and an in-depth topic each week
 * [Azure DevTestLabs artifacts](https://github.com/Azure/azure-devtestlab) - Github repo with devtestlabs artifacts
 * [SmartHotel360](https://github.com/Microsoft/SmartHotel360) - Reference Sample and Azure Backend
 * [HealthClinic.biz](https://github.com/Microsoft/HealthClinic.biz) - End-to-end demo scenario based on a fictitious B2B and multitenant system
+|Microsoft Visual Studio DevOps Hands-On-Labs|https://almvm.azurewebsites.net/|
 
 ### Azure Guides and Papers
 
@@ -145,47 +146,47 @@ Covers recent key news and an in-depth topic each week
 
 | Topic | Reference |
 | --- | --- |
-* [DevOps Resource Center](https://docs.microsoft.com/en-us/azure/devops/) -  Resources on learning DevOps practices, Git version control, Agile methods, how we work with DevOps at Microsoft, and how you can assess your own DevOps progression.
-* [VSTS Docs](https://docs.microsoft.com/en-us/vsts/index) - Everything that you've ever wanted to know about DevOps and VSTS
-* [Visual Studio - DevOps](https://www.visualstudio.com/devops/) - Your guide through the theory and implementation of DevOps
-* [Microsoft DevOps Blog](https://blogs.msdn.microsoft.com/devops/) - Microsoft DevOps Blog
-* [DevOps @ Microsoft](https://www.visualstudio.com/learn/devopsmsft-overview/) - How we continue to adopt DevOps at Microsoft
-* [Microsoft Visual Studio DevOps Hands-On-Labs](https://almvm.azurewebsites.net/)
+|DevOps Resource Center|https://docs.microsoft.com/en-us/azure/devops/ -  Resources on learning DevOps practices, Git version control, Agile methods, how we work with DevOps at Microsoft, and how you can assess your own DevOps progression.|
+|VSTS Docs|https://docs.microsoft.com/en-us/vsts/index - Everything that you've ever wanted to know about DevOps and VSTS|
+|Visual Studio - DevOps|https://www.visualstudio.com/devops/ - Your guide through the theory and implementation of DevOps|
+|Microsoft DevOps Blog|https://blogs.msdn.microsoft.com/devops/ - Microsoft DevOps Blog|
+|DevOps @ Microsoft|https://www.visualstudio.com/learn/devopsmsft-overview/ - How we continue to adopt DevOps at Microsoft|
+
 
 ### Kubernetes
 
 | Topic | Reference |
 | --- | --- |
-* [Lachlan Evenson YouTube](https://www.youtube.com/channel/UCC5NsnXM2lE6kKfJKdQgsRQ) - Lachie Evensen (Principle PM for Azure Container Services) YouTube Channel
-* [TGI Kubernetes by Heptio](https://www.youtube.com/channel/UCjQU5ZI2mHswy7OOsii_URg/videos) - Huge amount of videos on Kubernetes
-* [Hands-On:Kubernetes BootCamp](https://kubernetesbootcamp.github.io/kubernetes-bootcamp/index.html) - By the end of this bootcamp you will understand what Kubernetes does. You will also learn how to deploy, scale, update and debug containerized applications on a Kubernetes cluster using an interactive online terminal
-* [Katacoda Labs](https://katacoda.com/courses/kubernetes) - Learn Kubernetes using Interactive Browser-Based Scenarios
-* [Microsoft LEarning Series on Kubernetes](https://aka.ms/aksprep) - Good comprehensive learning series. Appropriate for beginners
+|Lachlan Evenson YouTube|https://www.youtube.com/channel/UCC5NsnXM2lE6kKfJKdQgsRQ - Lachie Evensen (Principle PM for Azure Container Services) YouTube Channel
+|TGI Kubernetes by Heptio|https://www.youtube.com/channel/UCjQU5ZI2mHswy7OOsii_URg/videos - Huge amount of videos on Kubernetes
+|Hands-On:Kubernetes BootCamp|https://kubernetesbootcamp.github.io/kubernetes-bootcamp/index.html - By the end of this bootcamp you will understand what Kubernetes does. You will also learn how to deploy, scale, update and debug containerized applications on a Kubernetes cluster using an interactive online terminal
+|Katacoda Labs|https://katacoda.com/courses/kubernetes - Learn Kubernetes using Interactive Browser-Based Scenarios
+|Microsoft Learning Series on Kubernetes|https://aka.ms/aksprep - Good comprehensive learning series. Appropriate for beginners
 
 ### Architecture
 
 | Topic | Reference |
 | --- | --- |
-* [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/) - Architecture resources
-* [Designing resilient applications for Azure](https://docs.microsoft.com/en-us/azure/architecture/resiliency/) - Architecture resilicency resources
-* [Azure Virtual Datacenter and the Enterprise Control Plane](https://docs.microsoft.com/en-us/azure/architecture/vdc/) - Azure Virtual Datacenter and the Enterprise Control Plane
-* [Structured review of Azure architectures](https://blogs.msdn.microsoft.com/azurecat/2018/11/13/new-whitepaper-structured-review-of-azure-architectures/)
+|Azure Architecture Center|https://docs.microsoft.com/en-us/azure/architecture/ - Architecture resources|
+|Designing resilient applications for Azure](https://docs.microsoft.com/en-us/azure/architecture/resiliency/) - Architecture resilicency resources|
+|Azure Virtual Datacenter and the Enterprise Control Plane|https://docs.microsoft.com/en-us/azure/architecture/vdc/ - Azure Virtual Datacenter and the Enterprise Control Plane|
+|Structured review of Azure architectures|https://blogs.msdn.microsoft.com/azurecat/2018/11/13/new-whitepaper-structured-review-of-azure-architectures/|
 
 ### Azure for AWS Professionals
 
 | Topic | Reference |
 | --- | --- |
-* [AWS to Azure services comparison](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
-* [Introduction to Microsoft Azure accounts, platform, and services for AWS experts](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/index) - Azure for AWS experts
-* [Azure for AWS Professionals - Learning Path](https://azure.microsoft.com/en-us/training/learning-paths/azure-for-aws-professional/) - Learning path for AWS Professionals
-* [Microsoft Azure for AWS Experts - EDX Course](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZURE213x+2017_T3/) - EDX Free Training
-* [Azure for AWS Professionals](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/)
-* [AWS to Azure services comparison](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
-* [(Part 1) Microsoft Azure for Amazon AWS Cloud Professionals: Getting Started](https://channel9.msdn.com/Shows/TechNet+Radio/TNR1667)
-* [(Part 2) Microsoft Azure for Amazon AWS Cloud Professionals: Networking](https://channel9.msdn.com/Shows/TechNet+Radio/TNR1668)
-* [(Part 3) Microsoft Azure for Amazon AWS Cloud Professionals: Storage](https://channel9.msdn.com/Shows/TechNet+Radio/TNR1669)
-* [(Part 4) Microsoft Azure for Amazon AWS Cloud Professionals: Virtual Machines, VM Scale Sets & Containers](https://channel9.msdn.com/Shows/TechNet+Radio/TNR1670)
-* [(Part 5) Microsoft Azure for Amazon AWS Cloud Professionals: Migrating to Azure](https://channel9.msdn.com/Shows/TechNet+Radio/TNR1671)
+|AWS to Azure services comparison|https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services|
+|Introduction to Microsoft Azure accounts, platform, and services for AWS experts|https://docs.microsoft.com/en-us/azure/architecture/aws-professional/index) - Azure for AWS experts|
+|Azure for AWS Professionals - Learning Path|https://azure.microsoft.com/en-us/training/learning-paths/azure-for-aws-professional/) - Learning path for AWS Professionals|
+|Microsoft Azure for AWS Experts - EDX Course|https://openedx.microsoft.com/courses/course-v1:Microsoft+AZURE213x+2017_T3 - EDX Free Training|
+|Azure for AWS Professionals|https://docs.microsoft.com/en-us/azure/architecture/aws-professional|
+|AWS to Azure services comparison|https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services|
+|(Part 1) Microsoft Azure for Amazon AWS Cloud Professionals: Getting Started|https://channel9.msdn.com/Shows/TechNet+Radio/TNR1667|
+|(Part 2) Microsoft Azure for Amazon AWS Cloud Professionals: Networking|https://channel9.msdn.com/Shows/TechNet+Radio/TNR1668|
+|(Part 3) Microsoft Azure for Amazon AWS Cloud Professionals: Storage|https://channel9.msdn.com/Shows/TechNet+Radio/TNR1669|
+|(Part 4) Microsoft Azure for Amazon AWS Cloud Professionals: Virtual Machines, VM Scale Sets & Containers|https://channel9.msdn.com/Shows/TechNet+Radio/TNR1670|
+|(Part 5) Microsoft Azure for Amazon AWS Cloud Professionals: Migrating to Azure|https://channel9.msdn.com/Shows/TechNet+Radio/TNR1671|
 
 ### Useful PDFs
 
@@ -228,5 +229,5 @@ A list of usefull links explaining about the common doubts related to Azure Free
 
 | Name | Links |
 | ------ | ------ |
-| Ricardo Martins | [http://ricardomartins.com.br](http://www.ricardomartins.com.br) - [@ricardommartins](http://twitter.com/ricardommartins) |
+| Ricardo Martins | [http://ricardomartins.com.br](http://www.ricardomartins.com.br) - [@ricmmartins](http://twitter.com/ricmmartins) |
 
