@@ -58,6 +58,9 @@ Feel free to contribute !
 |Microsoft Virtual Academy (Azure Courses)]|https://mva.microsoft.com/product-training/microsoft-azure#!lang=1033|
 |Microsoft Virtual Academy (Visual Studio Courses)|https://mva.microsoft.com/product-training/visual-studio-courses#!lang=1033|
 |Azure Courses on Cloud Academy|https://cloudacademy.com/library/?q=Azure|
+|Azure Learning Pathways|https://www.microsoft.com/en-au/azurelearningpathways|
+|Microsoft Learning on Github|https://github.com/MicrosoftLearning|
+
 
 ### Weekly Updates
 
