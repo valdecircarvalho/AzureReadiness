@@ -136,6 +136,7 @@ Covers recent key news and an in-depth topic each week|
 |Azure Documentation Updates|http://azuredocsupdates.azurewebsites.net/ - A community project to share the status about azure documentation updates|
 | Azure Virtual Datacenter eBook| http://aka.ms/VDC/eBook|
 | Azure Virtual Datacenter: Lift and Shift Guide| https://azure.microsoft.com/en-us/resources/azure-virtual-datacenter-lift-and-shift-guide/|
+|White papers, analyst reports and e-books|https://azure.microsoft.com/en-us/resources/whitepapers/|
 
 ### Events, Shows, Videos and Meetings
 
