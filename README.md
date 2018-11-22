@@ -102,7 +102,7 @@ Covers recent key news and an in-depth topic each week|
 |Microsoft Visual Studio DevOps Hands-On-Labs|https://almvm.azurewebsites.net/|
 |Azure Monitoring Hackathon|https://github.com/rkuehfus/AzureMonitoringHackathon|
 
-### Azure Guides and Papers
+### Azure Books, Guides and Papers
 
 | Topic | Reference |
 | --- | --- |
@@ -134,6 +134,8 @@ Covers recent key news and an in-depth topic each week|
 |Awesome Azure Advanced Analytics|https://github.com/bensadeghi/Awesome-Azure-Advanced-Analytics - Awesome repo with several topics on Azure Advanved Analytics|
 |Resource Manager Template Reference|https://azure.microsoft.com/en-us/blog/azure-resource-manager-template-reference-now-available/ - References to ARM Templates|
 |Azure Documentation Updates|http://azuredocsupdates.azurewebsites.net/ - A community project to share the status about azure documentation updates|
+| Azure Virtual Datacenter eBook| http://aka.ms/VDC/eBook|
+| Azure Virtual Datacenter: Lift and Shift Guide| https://azure.microsoft.com/en-us/resources/azure-virtual-datacenter-lift-and-shift-guide/|
 
 ### Events, Shows, Videos and Meetings
 
@@ -145,6 +147,10 @@ Covers recent key news and an in-depth topic each week|
 |Microsoft Mechanics|https://www.youtube.com/user/OfficeGarageSeries - The official tech show from Microsoft that covers your favorite tech and news across Microsoft|
 |The complete guide to the Azure Essentials|https://www.youtube.com/playlist?list=PLXtHYVsvn_b8xpydYGuVR0b7gWu4JJfRh - How much Azure you can learn in 5 to 6 minutes? A lot. Matt McSpirit is your guide through identity, compute, data, DevOps, and Azure for AWS Professionals. Each video is packed with in-product experiences and illustrative motion graphics|
 |Microsoft Mechanics on Channel9|https://channel9.msdn.com/Shows/Mechanics|
+|Microsoft Mechanics | https://www.youtube.com/user/OfficeGarageSeries|
+|Cloud Ranger Network|https://www.youtube.com/channel/UCNA6zO3qpCuZR-dUsAi9FGQ|
+|Azure Development Group| https://youtube.com/Azuredevelopmentgroup|
+|Jeffrey Richter Videos | https://www.youtube.com/user/JeffreyMRichter|
 
 ### DevOps
 
