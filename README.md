@@ -97,6 +97,7 @@ Covers recent key news and an in-depth topic each week|
 |SmartHotel360|https://github.com/Microsoft/SmartHotel360 - Reference Sample and Azure Backend|
 |HealthClinic.biz|https://github.com/Microsoft/HealthClinic.biz - End-to-end demo scenario based on a fictitious B2B and multitenant system|
 |Microsoft Visual Studio DevOps Hands-On-Labs|https://almvm.azurewebsites.net/|
+|Azure Monitoring Hackathon|https://github.com/rkuehfus/AzureMonitoringHackathon|
 
 ### Azure Guides and Papers
 
