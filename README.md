@@ -73,7 +73,10 @@ Feel free to contribute !
 Covers recent key news and an in-depth topic each week|
 |Azure Friday|https://channel9.msdn.com/Shows/Azure-Friday - Mature weekly video series, Scott Hanselman, Donovan Brown, or Lara Rubbelke host the engineers who build Azure, demo it, answer questions, and share insights|
 |Azure Tuesdays with Corey|https://channel9.msdn.com/Shows/Tuesdays-With-Corey - Corey Sanders answers your questions about Microsoft Azure - Virtual Machines, Web Sites, Mobile Services, Dev/Test etc. If you have a question, Corey will find the answer!|
+|Azure Roadmap|https://azure.microsoft.com/en-us/roadmap/|
 |Azure InfoHub|https://azureinfohub.azurewebsites.net/| - Mark this as your homepage!|
+|Azure Weekly| http://azureweekly.info/|
+|Updates on Azure Documentation|http://azuredocsupdates.azurewebsites.net/|
 
 ### Azure Workshops | Demos | Labs 
 
