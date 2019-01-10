@@ -107,6 +107,8 @@ Covers recent key news and an in-depth topic each week|
 |HealthClinic.biz|https://github.com/Microsoft/HealthClinic.biz - End-to-end demo scenario based on a fictitious B2B and multitenant system|
 |Microsoft Visual Studio DevOps Hands-On-Labs|https://almvm.azurewebsites.net/|
 |Azure Monitoring Hackathon|https://github.com/rkuehfus/AzureMonitoringHackathon|
+|App Innovation Workshop|https://github.com/Microsoft/app-innovation-workshop|
+|Azure IaaS Workshop|https://github.com/Microsoft/MTC_AzureIaaS|
 
 ### Azure Books, Guides and Papers
 
