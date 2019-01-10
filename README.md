@@ -62,6 +62,7 @@ Feel free to contribute !
 |Microsoft Learning on Github|https://github.com/MicrosoftLearning|
 
 
+
 ### Weekly Updates
 
 | Topic | Reference |
@@ -77,6 +78,8 @@ Covers recent key news and an in-depth topic each week|
 |Azure InfoHub|https://azureinfohub.azurewebsites.net/| - Mark this as your homepage!|
 |Azure Weekly| http://azureweekly.info/|
 |Updates on Azure Documentation|http://azuredocsupdates.azurewebsites.net/|
+|Open@Microsoft - Medium |https://medium.com/@OpenAtMicrosoft|
+|Microsoft Azre - Medium|https://medium.com/microsoftazure|
 
 ### Azure Workshops | Demos | Labs 
 
