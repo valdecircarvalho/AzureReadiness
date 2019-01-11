@@ -38,6 +38,7 @@ Feel free to contribute !
 
 | Topic | Reference |
 | --- | --- |
+|Azure Free Trainings on Pluralsight|http://aka.ms/azure-pluralsight|
 |Azure Learning in Linkedin|https://www.linkedin.com/learning/search?keywords=Azure&u=3322 - Lots of Azure courses as well as AWS and Google also. Good offline app as part of the LinkedIn Mobile App - learn on the go|
 |Azure Free Trainings at Pluralsight|http://pluralsight.com/partners/microsoft/azure - Free trainings for Azure from Pluralsight and Microsoft|
 |Microsoft Self Passed Labs|https://www.microsoft.com/handsonlabs/SelfPacedLabs - Microsoft Self Passed Labs|
