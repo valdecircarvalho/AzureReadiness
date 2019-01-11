@@ -145,6 +145,7 @@ Covers recent key news and an in-depth topic each week|
 | Azure Virtual Datacenter eBook| http://aka.ms/VDC/eBook|
 | Azure Virtual Datacenter: Lift and Shift Guide| https://azure.microsoft.com/en-us/resources/azure-virtual-datacenter-lift-and-shift-guide/|
 |White papers, analyst reports and e-books|https://azure.microsoft.com/en-us/resources/whitepapers/|
+|Achieving Compliant Data Residency and Security with Azurea|https://azure.microsoft.com/en-us/resources/achieving-compliant-data-residency-and-security-with-azure/|
 
 ### Events, Shows, Videos and Meetings
 
