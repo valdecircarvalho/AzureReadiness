@@ -62,7 +62,16 @@ Feel free to contribute !
 |Azure Learning Pathways|https://www.microsoft.com/en-au/azurelearningpathways|
 |Microsoft Learning on Github|https://github.com/MicrosoftLearning|
 
+### Azure Certification Free Training
+## AZ-100 Microsoft Azure Infrastructure and Deployment
 
+| Topic | Reference |
+| --- | --- |
+|AZ-100.1 Manage Subscriptions and Resources|	https://aka.ms/openedx-AZ-100.1-about|
+|AZ-100.2 Implementing and Managing Storage|	https://aka.ms/openedx-AZ-100.2-about|
+|AZ-100.3 Deploying and Managing Virtual Machines|	https://aka.ms/openedx-AZ-100.3-about|
+|AZ-100.4 Configuring and Managing Virtual Networks|	https://aka.ms/openedx-AZ-100.4-about|
+|AZ-100.5 Managing Identities|	https://aka.ms/openedx-AZ-100.5-about|
 
 ### Weekly Updates
 
