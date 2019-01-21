@@ -169,6 +169,7 @@ Covers recent key news and an in-depth topic each week|
 |App Innovation Workshop|https://github.com/Microsoft/app-innovation-workshop|
 |Azure IaaS Workshop|https://github.com/Microsoft/MTC_AzureIaaS|
 |Azure Samples on Github|https://github.com/Azure-Samples|
+|Kubernetes the Hard Way on Azure|https://github.com/ivanfioravanti/kubernetes-the-hard-way-on-azure|
 
 ### Azure Books, Guides and Papers
 
