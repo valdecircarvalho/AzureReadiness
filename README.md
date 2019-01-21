@@ -168,6 +168,7 @@ Covers recent key news and an in-depth topic each week|
 |Azure Monitoring Hackathon|https://github.com/rkuehfus/AzureMonitoringHackathon|
 |App Innovation Workshop|https://github.com/Microsoft/app-innovation-workshop|
 |Azure IaaS Workshop|https://github.com/Microsoft/MTC_AzureIaaS|
+|Azure Samples on Github|https://github.com/Azure-Samples|
 
 ### Azure Books, Guides and Papers
 
