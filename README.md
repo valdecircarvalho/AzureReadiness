@@ -286,6 +286,7 @@ Covers recent key news and an in-depth topic each week|
 |Microsoft Azure & AWS: Cloud Service Map|aka.ms/awsazureguide|
 |Modern Service Management for Azure|https://azure.microsoft.com/mediahandler/files/resourcefiles/b6ea597e-2ca2-4bfb-9adc-c8d7292bc81a/Modern%20Service%20Management%20for%20Azure%20v1.1.pdf|
 |Enterprise Cloud Strategy|https://info.microsoft.com/rs/157-GQE-382/images/EN-US-CNTNT-ebook-Enterprise_Cloud_Strategy_2nd_Edition_AzureInfrastructure.pdf|
+|Adopting the Microsoft Cloud Operating Model|https://azure.microsoft.com/mediahandler/files/resourcefiles/cloud-operating-model---full-document/FINAL-Cloud%20Operating%20Model.pdf|
 
 ### Azure Free Account
 A list of usefull links explaining about the common doubts related to Azure Free Account:
