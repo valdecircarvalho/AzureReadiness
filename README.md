@@ -3,13 +3,6 @@ The purpose of this repo is to serve as a curated list of readiness resources on
 
 Feel free to contribute !
 
-## Focussed List
-| Topic | Reference |
-| --- | --- |
-|Azure Learn|https://docs.microsoft.com/en-us/learn/azure/ - Announced at Ignite, Microsoft Learn offers customers, partners, and employees micro-learning modules to grow technical skills. Operating as Microsoft’s core technical educational offering, it is designed to provide each audience a “learn by doing” experience|
-|Microsoft Professional Program|https://academy.microsoft.com/en-us/professional-program/ - Deep technical tracks which require a lot of effort.  Fantastic, comprehensive content - but not for the faint hearted. *Developers* *Generalists* and *Data Scientists*|
-|Microsoft on EDX|https://www.edx.org/school/microsoft - Free online courses from Microsoft at EDX|
-
 ## Ignite 2018
 
 | Topic | Reference |
