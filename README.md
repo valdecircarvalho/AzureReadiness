@@ -68,6 +68,7 @@ Covers recent key news and an in-depth topic each week|
 
 | Topic | Reference |
 | --- | --- |
+|Azure Workshops|https://azureworkshops.github.io/| 
 |Azure DevOps Labs|https://www.azuredevopslabs.com/|
 |Terraform on Azure|https://azurecitadel.github.io/workshops/terraform/|
 |Dozen of Azure Workshops|https://azurecitadel.github.io/workshops/|
