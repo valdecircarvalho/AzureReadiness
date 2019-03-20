@@ -68,6 +68,8 @@ Covers recent key news and an in-depth topic each week|
 
 | Topic | Reference |
 | --- | --- |
+|The Azure Kubernetes Workshop|https://aksworkshop.io/|
+|Azure Kubernetes Service (AKS) - Hands-on Lab Script|https://github.com/markharrisonuk/Lab_AKS|
 |Azure Workshops|https://azureworkshops.github.io/| 
 |Azure DevOps Labs|https://www.azuredevopslabs.com/|
 |Terraform on Azure|https://azurecitadel.github.io/workshops/terraform/|
