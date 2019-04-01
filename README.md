@@ -231,6 +231,7 @@ A list of usefull links explaining about the common doubts related to Azure Free
 | --- | --- |
 |Awesome Azure Advanced Analytics|https://github.com/bensadeghi/Awesome-Azure-Advanced-Analytics - Awesome big data and advanced analytics resources for the Microsoft Azure Cloud|
 |Awesome Kubernetes|https://github.com/ramitsurana/awesome-kubernetes - An enormous list of Kubernetes resources|
+|Awesome Azure|https://github.com/kristofferandreasen/awesome-azure - A curated list of Azure Resources by @kristofferandreasen |
 
 ---
 
